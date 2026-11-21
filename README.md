@@ -15,7 +15,6 @@ I have completed my learning notes for Excel, SQL, Python, and Power BI. This re
 - Pandas
 - Matplotlib and Seaborn
 - Power BI
-- Statistics
 - Data Analytics
 
 ## Repository Structure
@@ -26,8 +25,7 @@ I have completed my learning notes for Excel, SQL, Python, and Power BI. This re
 | 02-SQL | SQL concepts, queries, joins and advanced SQL |
 | 03-Python | Python fundamentals, NumPy, Pandas and visualization |
 | 04-Power-BI | Power Query, DAX, data modeling and dashboards |
-| 05-Statistics | Statistical concepts and analysis |
-| 06-Data-Analytics | Data cleaning, EDA and business insights |
+| 05-Data-Analytics | Data cleaning, EDA and business insights |
 
 ## Learning Objectives
 
