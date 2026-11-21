@@ -27,4 +27,4 @@ This folder contains my Excel learning notes, formulas, functions, practical exa
 - Create reports and interactive dashboards.
 - Prepare for Data Analyst interviews.
 
-I will regularly update this folder with new concepts, examples, and practice exercises.
+
